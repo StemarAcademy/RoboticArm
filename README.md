@@ -66,7 +66,7 @@ Optional parameters:
 - `speed` (int): Speed to move from the old position to the new one (default is 700).
 - `effector_horizontal_degree` (float): Degree of the effector relative to the ground, ranging from 0 to 180 degrees (default is 90).
 
-** Controlling the Gripper
+## Controlling the Gripper
 
 To control the gripper, use the `gripper` method:
 
